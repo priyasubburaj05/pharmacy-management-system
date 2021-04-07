@@ -1,0 +1,28 @@
+#wrapper{
+    border-radius : 10px;
+    background-color: white;
+    border: 3px solid #f1f1f1;
+    width: 500px;
+    margin: 0 auto;
+}
+.container{
+    width: 450px;
+    margin: 0 auto;
+}
+
+input{
+    width: 430px;
+    margin: 0 auto;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+#btn_go{
+   background-color: #3498db;
+   color: white;
+   margin-top:5px;
+   padding:5px;
+   font-size:16px;
+   font-weight:bold
+}
+
